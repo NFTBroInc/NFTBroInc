@@ -3,7 +3,7 @@
 
 ## Where you can find me:
 ![](./favicon.png) 
-[My Opensea.io account](https://opensea.io/NFTBro_Inc)
+[My Opensea.io account](https://opensea.io/NFTBroInc)
 <br>
 ![](./github.png) 
 [My GitHub account](https://github.com/NFTBroInc)
